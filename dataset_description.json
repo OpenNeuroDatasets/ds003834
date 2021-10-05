@@ -10,10 +10,11 @@
     "HowToAcknowledge": "TODO",
     "DatasetDOI": "TODO",
     "Funding": [
-      "NSF grant #1835200"
+        "NSF grant #1835200"
     ],
-    "License": "PDDL",
+    "License": "CC0",
     "ReferencesAndLinks": [
-        "https://github.com/mvdoc/identity-decoding/"
+        "https://github.com/mvdoc/identity-decoding/",
+        "https://osf.io/ehygz/"
     ]
 }
