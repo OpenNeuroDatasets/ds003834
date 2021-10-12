@@ -10,5 +10,4 @@ press).
 
 ### Notes
 
-T1 anatomicals were refaced using AFNI's
-  `@afni_refacer_run`: https://afni.nimh.nih.gov/pub/dist/doc/program_help/@afni_refacer_run.html
+T1 anatomicals were refaced using AFNI's `@afni_refacer_run` https://afni.nimh.nih.gov/pub/dist/doc/program_help/@afni_refacer_run.html
