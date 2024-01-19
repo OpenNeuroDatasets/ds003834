@@ -1,0 +1,1 @@
+fix-magnitude.py is the script used to fix the EchoTime ordering to comply with the BIDS standard.
